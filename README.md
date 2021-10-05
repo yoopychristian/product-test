@@ -1,4 +1,6 @@
 ﻿# product-test
+Database restore format directory
+ 
 go run main.go
 
 product terbaru = localhost:8081/services/list-product/new
